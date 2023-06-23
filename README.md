@@ -1,1 +1,3 @@
 # Plant_Disease_Prediction
+The project involved creating a convolutional neural network using TensorFlow and Keras to predict whether a plant is suffering from a disease, with the goal of developing mobile disease diagnostics through machine learning and big data.
+The project included mounting Google Drive, visualizing and resizing images, converting images to numpy arrays, normalizing data, checking for class imbalance, splitting data and performing one-hot encoding, creating the model architecture, compiling and fitting the model, preprocessing test data, making predictions, and visualizing the original and predicted labels for test images.
